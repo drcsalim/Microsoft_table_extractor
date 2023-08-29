@@ -1,0 +1,10 @@
+huggingface-hub
+transformers
+timm
+streamlit
+pytesseract
+PyMuPDF
+matplotlib
+opencv-contrib-python
+markdown2 
+beautifulsoup4
